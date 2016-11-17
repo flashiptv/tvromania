@@ -136,6 +136,12 @@
 	<link>http://185.45.13.178:8081/live/239386.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNiA5OjQzOjU0IEFNJmhhc2hfdmFsdWU9Nkg5bFNNc3kyTFJlWXozNEJMU3pyQT09JnZhbGlkbWludXRlcz0y&wmsAuthSign2=NTdlY2NlZDNkMzQzZA==</link>
     <thumbnail>http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg</thumbnail>
     </item>
+
+    <item>
+	<title>U TV</title>
+	<link>http://81.196.0.126/utvedge/utvlivehls/chunklist_w552012056.m3u8</link>
+    <thumbnail>http://vignette1.wikia.nocookie.net/dreamlogos/images/0/0c/U_tv.png/revision/latest?cb=20140626073519</thumbnail>
+    </item>
     
     
     
