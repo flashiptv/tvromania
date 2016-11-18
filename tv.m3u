@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",Capital TV (UK)
+
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,(RO) REALITATEA TV
+http://realitatea.m247.ro/hls/live.m3u8
+#EXTINF:-1,(RO) ROMANIA TV
+http://rtv.smcmobile.ro:8080/RTV.m3u8
+#EXTINF:-1,(RO) ANTENA 3
+http://live3vox.aplay.ro/antena3_FiXpX/350.m3u8?starttime=1478990017&endtime=1478997247&source=web&token=PtMfg_eK4VlNE5c6k3o-FxhsmOQ=
+#EXTINF:-1,(RO) PRO TV NEWS
+http://185.133.64.237/news/stream:1.stream/chunklist_w498627641.m3u8
+#EXTINF:-1,(RO) DOLCE SPORT 1
+http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/143.m3u8
+#EXTINF:-1,(RO) DOLCE SPORT 2
+http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/158.m3u8
+#EXTINF:-1,(RO) DOLCE SPORT 3
+http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/167.m3u8
+#EXTINF:-1,(RO) DOLCE SPORT 4
+http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/171.m3u8
+#EXTINF:-1,(RO) PRO TV HD
+http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/3.m3u8
+#EXTINF:-1,(RO) AXN
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=11ecaa8c1d2a1a096ec333c8fb5ece1c&time=1479202520&pid=30411&external_device=&on_demand=0&isp=&bitrate=1812
+#EXTINF:-1,(RO) BOLLIWOOD TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,(RO) HBO
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=fb7576bab7e09b17cfd0ea5d4840e362&time=1479290120&pid=19007&external_device=&on_demand=0&isp=&bitrate=1733
+#EXTINF:-1,(RO) HBO 2
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=c882adbbb1d0568f030ba27da8d37e21&time=1479290335&pid=19021&external_device=&on_demand=0&isp=&bitrate=1594
+#EXTINF:-1,(RO) TNT
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=f245f348484153fc86ab0bc3457131ff&time=1479202816&pid=30589&external_device=&on_demand=0&isp=&bitrate=1434
+#EXTINF:-1,(RO) SHOW TIME
+http://mediafilmcenter.ro:1935/live/myStream/chunklist_w1760686508.m3u8
+#EXTINF:-1,(RO) EUROSPORT 1
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=60&extension=ts&hash=9d65aa1d79d13af1b5de18851457c753&time=1479202875&pid=30737&external_device=&on_demand=0&isp=&bitrate=1558
+#EXTINF:-1,(RO) EUROSPORT 2
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=61&extension=ts&hash=ea307ea25adfec2f5ffb5a5202a1cb0c&time=1479202925&pid=30750&external_device=&on_demand=0&isp=&bitrate=1719
+#EXTINF:-1,SKY SPORTS UK
+http://securestream.livesport.pw/stream/ZmM4NzI5NDRlYjExNzk5NWQ5NTdmNmE5YmQ2NTNiYTk=/SkySports1.m3u8
+#EXTINF:-1,BT SPORT
+http://185.45.13.178:8081/live/239386.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNiA5OjQzOjU0IEFNJmhhc2hfdmFsdWU9Nkg5bFNNc3kyTFJlWXozNEJMU3pyQT09JnZhbGlkbWludXRlcz0y&wmsAuthSign2=NTdlY2NlZDNkMzQzZA==
+#EXTINF:-1,(RO) U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w552012056.m3u8
+#EXTINF:-1,(RO) HIT MUSIC
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png",(RO) NAT GEO 
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=72&extension=ts&hash=b2980134365d7d2bc2e86ec65f38b5f5&time=1479203110&pid=30712&external_device=&on_demand=0&isp=&bitrate=1266
+#EXTINF:-1,(RO) NAT GEO WILD 
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=73&extension=ts&hash=b00438693f959f2000628e2475706195&time=1479203211&pid=30894&external_device=&on_demand=0&isp=&bitrate=1902
+#EXTINF:-1,(RO) ANIMAL PLANET
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=200&extension=ts&hash=8ef93dd1d2065a1e34fb8d84feba734a&time=1479203166&pid=2746&external_device=&on_demand=0&isp=&bitrate=3703
+#EXTINF:-1,(RO) BBC EART
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=186&extension=ts&hash=41050807eb0d56129696110e051691c7&time=1479203396&pid=27024&external_device=&on_demand=0&isp=&bitrate=515
+#EXTINF:-1,(RO) TRAVEL MIX
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,(RO) KANAL D
+http://80.86.107.169/iphone/live.m3u8
+#EXTINF:0,(RO) ETNO TV HD
+http://213.142.149.136:8000/play/a00a
+#EXTINF:0,(RO) TARAF TV HD
+http://213.142.149.136:8000/play/a00b
+#EXTINF:-1,(IT) RAI 1
+https://live02.cdn.web.tv/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8?st=DYxiVSQS30LcEf0zYVIuUg&e=1479214633&r=playlist
+#EXTINF:-1,(IT) RAI 2
+https://live02.cdn.web.tv/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8?st=kAPS6E60eltxuHoxAPpI8g&e=1479214692&r=playlist
+#EXTINF:-1,(IT) RAI 3
+https://live02.cdn.web.tv/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8?st=5jvIUzKkM_zRTDXdNldL7w&e=1479214842&r=playlist
+#EXTINF:-1,(USA) AMC 
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=16&extension=ts&hash=4d3ee2060e2645ba66698df207fdaf79&time=1479204143&pid=32469&external_device=&on_demand=0&isp=&bitrate=1551
+#EXTINF:-1,(USA) ESPN
+http://89.248.168.18:8081/live/espnusa-hq/chunks.m3u8?nimblesessionid=45306159&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNiAxMDowMzo1OCBBTSZoYXNoX3ZhbHVlPUVySmZ1WE5pN3NWdGhNUVVQQmt3SkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTg4LjExNC4xMTEuMjQyJnN0cm1fbGVuPTE1
+#EXTINF:-1,(ES) BEIN SPORTS
+http://stream.latino-webtv.com:8880/beinhd/playlist.m3u8
+#EXTINF:-1, 
