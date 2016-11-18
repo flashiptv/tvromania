@@ -22,25 +22,25 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/171.m3u8
 #EXTINF:-1,(RO) PRO TV HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/3.m3u8
 #EXTINF:-1,(RO) AXN
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=f965fd02e215864352b7f4d6dc4af94c&time=1479432414&pid=25833&external_device=&on_demand=0&isp=&bitrate=1460
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=bff5501b2e3991c1eb9cb512226f1e73&time=1479506862&pid=25833&external_device=&on_demand=0&isp=&bitrate=1915
 #EXTINF:-1,(RO) BOLLIWOOD TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,(RO) HBO
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=1633e29b87eef7cadcc6b9cfb3966c71&time=1479431054&pid=30690&external_device=&on_demand=0&isp=&bitrate=1335
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=f2fb546c4d76546243319057cbd2bbe2&time=1479507081&pid=14341&external_device=&on_demand=0&isp=&bitrate=1817
 #EXTINF:-1,(RO) HBO 2
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=6f80427439c8240fa4ec19b3f220132b&time=1479436077&pid=30703&external_device=&on_demand=0&isp=&bitrate=1593
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=7f72d49a4cce33ea1c90df8e7426c031&time=1479507230&pid=14354&external_device=&on_demand=0&isp=&bitrate=1379
 #EXTINF:-1,(RO) TNT
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=af85412c66b886b75fb5f534222e0fad&time=1479436784&pid=27516&external_device=&on_demand=0&isp=&bitrate=1510
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=61ebabb0dffe25c681835efa2a89e246&time=1479507334&pid=20955&external_device=&on_demand=0&isp=&bitrate=1213
 #EXTINF:-1,(RO) SHOW TIME
 http://mediafilmcenter.ro:1935/live/myStream/chunklist_w1760686508.m3u8
 #EXTINF:-1,(RO) EUROSPORT 1
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=60&extension=ts&hash=e7711169ae102ee2963ab51a49875aee&time=1479436984&pid=25946&external_device=&on_demand=0&isp=&bitrate=1460
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=60&extension=ts&hash=70454b766e037cb6bc9efff6be21d782&time=1479502966&pid=25946&external_device=&on_demand=0&isp=&bitrate=1460
 #EXTINF:-1,(RO) EUROSPORT 2
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=61&extension=ts&hash=ea307ea25adfec2f5ffb5a5202a1cb0c&time=1479202925&pid=30750&external_device=&on_demand=0&isp=&bitrate=1719
+http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/61.m3u8
 #EXTINF:-1,SKY SPORTS UK
-http://securestream.livesport.pw/stream/ZmM4NzI5NDRlYjExNzk5NWQ5NTdmNmE5YmQ2NTNiYTk=/SkySports1.m3u8
+http://securestream.livesport.pw/stream/N2IzYTBiNjEwMDAxMDVmNWMxMDQwYjU5NjIzOGI2YzY=/SkySports2.m3u8
 #EXTINF:-1,BT SPORT
-http://185.45.13.178:8081/live/239386.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNiA5OjQzOjU0IEFNJmhhc2hfdmFsdWU9Nkg5bFNNc3kyTFJlWXozNEJMU3pyQT09JnZhbGlkbWludXRlcz0y&wmsAuthSign2=NTdlY2NlZDNkMzQzZA==
+http://89.40.71.245:8081/live/239578.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNiAxMDoyMToxNSBQTSZoYXNoX3ZhbHVlPTRTTktUZlVWcFR5cVRKRFRDS09kUnc9PSZ2YWxpZG1pbnV0ZXM9Mg==&wmsAuthSign2=NTgyOGMxYTZmMWQ2Yw==
 #EXTINF:-1,(RO) U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w552012056.m3u8
 #EXTINF:-1,(RO) HIT MUSIC
@@ -73,4 +73,7 @@ http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS
 http://89.248.168.18:8081/live/espnusa-hq/chunks.m3u8?nimblesessionid=45306159&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxNiAxMDowMzo1OCBBTSZoYXNoX3ZhbHVlPUVySmZ1WE5pN3NWdGhNUVVQQmt3SkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTg4LjExNC4xMTEuMjQyJnN0cm1fbGVuPTE1
 #EXTINF:-1,(ES) BEIN SPORTS
 http://stream.latino-webtv.com:8880/beinhd/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1,ANTENA 1 HD
+http://89.43.138.29/live/playlist13.m3u8 
+#EXTINF:-1,LOOK TV
+http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/48.m3u8
