@@ -1,15 +1,15 @@
 #EXTM3U
+#EXTINF:0,  [COLOR blue]PROGRAME ROMANESTI [/COLOR] 
 
 
 #EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",Capital TV (UK)
-
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,(RO) REALITATEA TV
 http://realitatea.m247.ro/hls/live.m3u8
 #EXTINF:-1,(RO) ROMANIA TV
 http://rtv.smcmobile.ro:8080/RTV.m3u8
-#EXTINF:-1, (RO) ANTENA 1 HD
+#EXTINF:-1,ANTENA 1 HD
 http://89.43.138.29/live/playlist13.m3u8
 #EXTINF:-1,(RO) ANTENA 3
 http://live3vox.aplay.ro/antena3_FiXpX/350.m3u8?starttime=1478990017&endtime=1478997247&source=web&token=PtMfg_eK4VlNE5c6k3o-FxhsmOQ=
@@ -23,18 +23,18 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/158.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/167.m3u8
 #EXTINF:-1,(RO) DOLCE SPORT 4
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/171.m3u8
-#EXTINF:-1, (RO) LOOK TV
+#EXTINF:-1,LOOK TV
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/48.m3u8
 #EXTINF:-1,(RO) PRO TV HD
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/3.m3u8
 #EXTINF:-1,(RO) AXN
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=95e819b5c7bfaf6caff569c4981b753c&time=1479509136&pid=25833&external_device=&on_demand=0&isp=&bitrate=1857
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=7f883fbc194d643f1b781b072c7d9f88&time=1479564657&pid=10911&external_device=&on_demand=0&isp=&bitrate=1440
 #EXTINF:-1,(RO) BOLLIWOOD TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,(RO) HBO
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=f2fb546c4d76546243319057cbd2bbe2&time=1479507081&pid=14341&external_device=&on_demand=0&isp=&bitrate=1817
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=6ca27005cd7e0643e66679a9dac70f70&time=1479564422&pid=11829&external_device=&on_demand=0&isp=&bitrate=1352
 #EXTINF:-1,(RO) HBO 2
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=7f72d49a4cce33ea1c90df8e7426c031&time=1479507230&pid=14354&external_device=&on_demand=0&isp=&bitrate=1379
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=d02ba0ae62caacc8a50cbc111c384ef0&time=1479564576&pid=11843&external_device=&on_demand=0&isp=&bitrate=1417
 #EXTINF:-1,(RO) TNT
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=a4a9364f7c93499f9d4e30d6e9a6763d&time=1479509340&pid=20955&external_device=&on_demand=0&isp=&bitrate=1423
 #EXTINF:-1,(RO) SHOW TIME
