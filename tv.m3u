@@ -1,72 +1,72 @@
 #EXTM3U
-#EXTINF:0,[COLOR blue]PROGRAME ROMANESTI [/COLOR] 
 
 
-#EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",Capital TV (UK)
+
+#EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",[COLOR blue]Capital TV (UK)[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,(RO) REALITATEA TV
+#EXTINF:-1,[COLOR blue](RO) REALITATEA TV[/COLOR]
 http://realitatea.m247.ro/hls/live.m3u8
-#EXTINF:-1,(RO) ROMANIA TV
+#EXTINF:-1,[COLOR blue](RO) ROMANIA TV[/COLOR]
 http://rtv.smcmobile.ro:8080/RTV.m3u8
-#EXTINF:-1,ANTENA 1 HD
+#EXTINF:-1,[COLOR blue]ANTENA 1 HD[/COLOR]
 http://89.43.138.29/live/playlist13.m3u8
-#EXTINF:-1,(RO) ANTENA 3
+#EXTINF:-1,[COLOR blue](RO)ANTENA 3[/COLOR]
 http://live3vox.aplay.ro/antena3_FiXpX/350.m3u8?starttime=1478990017&endtime=1478997247&source=web&token=PtMfg_eK4VlNE5c6k3o-FxhsmOQ=
-#EXTINF:-1,(RO) PRO TV NEWS
+#EXTINF:-1,[COLOR blue](RO) PRO TV NEWS[/COLOR]
 http://185.133.64.237/news/stream:1.stream/chunklist_w498627641.m3u8
-#EXTINF:-1,(RO) DOLCE SPORT 1
+#EXTINF:-1,[COLOR blue](RO) DOLCE SPORT 1[/COLOR]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/143.m3u8
-#EXTINF:-1,(RO) DOLCE SPORT 2
+#EXTINF:-1,[COLOR blue](RO) DOLCE SPORT 2[/COLOR]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/158.m3u8
-#EXTINF:-1,(RO) DOLCE SPORT 3
+#EXTINF:-1,[COLOR blue](RO) DOLCE SPORT 3[/COLOR]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/167.m3u8
-#EXTINF:-1,(RO) DOLCE SPORT 4
+#EXTINF:-1,[COLOR blue](RO) DOLCE SPORT 4[/COLOR]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/171.m3u8
-#EXTINF:-1,LOOK TV
+#EXTINF:-1,[COLOR blue]LOOK TV[/COLOR]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/48.m3u8
-#EXTINF:-1,(RO) PRO TV HD
+#EXTINF:-1,[COLOR blue](RO) PRO TV HD[/COLOR]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/3.m3u8
-#EXTINF:-1,(RO) AXN
+#EXTINF:-1,[COLOR blue](RO) AXN[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=7f883fbc194d643f1b781b072c7d9f88&time=1479564657&pid=10911&external_device=&on_demand=0&isp=&bitrate=1440
-#EXTINF:-1,(RO) BOLLIWOOD TV
+#EXTINF:-1,[COLOR blue](RO) BOLLIWOOD TV[/COLOR]
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,(RO) HBO
+#EXTINF:-1,[COLOR blue](RO) HBO[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=6ca27005cd7e0643e66679a9dac70f70&time=1479564422&pid=11829&external_device=&on_demand=0&isp=&bitrate=1352
-#EXTINF:-1,(RO) HBO 2
+#EXTINF:-1,[COLOR blue](RO) HBO 2[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=d02ba0ae62caacc8a50cbc111c384ef0&time=1479564576&pid=11843&external_device=&on_demand=0&isp=&bitrate=1417
-#EXTINF:-1,(RO) TNT
+#EXTINF:-1,[COLOR blue](RO) TNT[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=a4a9364f7c93499f9d4e30d6e9a6763d&time=1479509340&pid=20955&external_device=&on_demand=0&isp=&bitrate=1423
-#EXTINF:-1,(RO) SHOW TIME
+#EXTINF:-1,[COLOR blue](RO) SHOW TIME[/COLOR]
 http://mediafilmcenter.ro:1935/live/myStream/chunklist_w843282891.m3u8
-#EXTINF:-1,(RO) EUROSPORT 1
+#EXTINF:-1,[COLOR blue](RO) EUROSPORT 1[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=60&extension=ts&hash=70454b766e037cb6bc9efff6be21d782&time=1479502966&pid=25946&external_device=&on_demand=0&isp=&bitrate=1460
-#EXTINF:-1,(RO) EUROSPORT 2
+#EXTINF:-1,[COLOR blue](RO) EUROSPORT 2[/COLOR]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/61.m3u8
-#EXTINF:-1,SKY SPORTS UK
+#EXTINF:-1,[COLOR blue]SKY SPORTS UK[/COLOR]
 http://securestream.livesport.pw/stream/N2IzYTBiNjEwMDAxMDVmNWMxMDQwYjU5NjIzOGI2YzY=/SkySports2.m3u8
-#EXTINF:-1,BT SPORT
+#EXTINF:-1,[COLOR blue]BT SPORT[/COLOR]
 http://89.40.71.245:8081/live/239578.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNiAxMDoyMToxNSBQTSZoYXNoX3ZhbHVlPTRTTktUZlVWcFR5cVRKRFRDS09kUnc9PSZ2YWxpZG1pbnV0ZXM9Mg==&wmsAuthSign2=NTgyOGMxYTZmMWQ2Yw==
-#EXTINF:-1,(RO) U TV
+#EXTINF:-1,[COLOR blue](RO) U TV[/COLOR]
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w552012056.m3u8
-#EXTINF:-1,(RO) HIT MUSIC
+#EXTINF:-1,[COLOR blue](RO) HIT MUSIC[/COLOR]
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png",(RO) NAT GEO
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png",[COLOR blue](RO) NAT GEO[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=72&extension=ts&hash=97bee8d4a76f9b2f55410296121afe16&time=1479510507&pid=27692&external_device=&on_demand=0&isp=&bitrate=1307 
-#EXTINF:-1,(RO) NAT GEO WILD
+#EXTINF:-1,[COLOR blue](RO) NAT GEO WILD[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=73&extension=ts&hash=1f83aeb7ac7ba4bdc08fa2bb092291bd&time=1479510133&pid=25998&external_device=&on_demand=0&isp=&bitrate=1108 
-#EXTINF:-1,(RO) ANIMAL PLANET
+#EXTINF:-1,[COLOR blue](RO) ANIMAL PLANET[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=200&extension=ts&hash=1680b85dc34f81e41b732368c34ea048&time=1479509963&pid=16912&external_device=&on_demand=0&isp=&bitrate=2308
-#EXTINF:-1,(RO) BBC EART
+#EXTINF:-1,[COLOR blue](RO) BBC EART[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=186&extension=ts&hash=cd6a50640bd26599175abf4d0347298a&time=1479520841&pid=7462&external_device=&on_demand=0&isp=&bitrate=639
-#EXTINF:-1,(RO) TRAVEL MIX
+#EXTINF:-1,[COLOR blue](RO) TRAVEL MIX[/COLOR]
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,(RO) KANAL D
+#EXTINF:-1,[COLOR blue](RO) KANAL D[/COLOR]
 http://80.86.107.169/iphone/live.m3u8
-#EXTINF:0,(RO) ETNO TV HD
+#EXTINF:0,[COLOR blue](RO) ETNO TV HD[/COLOR]
 http://213.142.149.136:8000/play/a00a
-#EXTINF:0,(RO) TARAF TV HD
+#EXTINF:0,[COLOR blue](RO) TARAF TV HD[/COLOR]
 http://213.142.149.136:8000/play/a00b
-#EXTINF:-1,(ES) BEIN SPORTS
+#EXTINF:-1,[COLOR blue](ES) BEIN SPORTS[/COLOR]
 http://stream.latino-webtv.com:8880/beinhd/playlist.m3u8
  
