@@ -72,7 +72,29 @@ http://213.142.149.136:8000/play/a00b
 http://stream.latino-webtv.com:8880/beinhd/playlist.m3u8
 #EXTINF:-1,[COLOR blue]ufc network[/COLOR]
 https://r2---sn-w511uxa-h5q6.googlevideo.com/videoplayback?upn=muRSudxrHV4&ipbits=0&ip=37.11.155.6&ei=oVswWOiKAculc7H6vcAM&pl=26&ms=au&mt=1479564027&mv=m&source=youtube&signature=0F19CC4322D90F6CE8ED7F1757A3E78E0D5F3616.362479985DCB2C9D2CA07FC49FB8D031265C8E74&initcwndbps=1511250&id=o-ALm5XaKkfBUZTaE-EzKxsDSHjhZeduTbDcNB0jMfiYX9&mm=31&mn=sn-w511uxa-h5q6&expire=1479585793&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&mime=video%2Fmp4&key=yt6&dur=20.085&lmt=1473677933159056&ratebypass=yes&itag=22&requiressl=yes
-
+#EXTINF:-0,[COLOR orange]=== POSTURI DE RADIO ===[/COLOR]
+#EXTINF:-1,[COLOR red]RADIO ZU[/COLOR]
+http://live.romanticfm.ro:9123/radiozu.aacp
+#EXTINF:-1,[COLOR red]RADIO 21[/COLOR]
+http://astreaming.radio21.ro:8000/radio21_mp3_64k
+#EXTINF:-1,[COLOR red]RADIO KISS FM[/COLOR]
+http://80.86.106.143:9128/kissfm.aacp
+#EXTINF:-1,[COLOR red]RADIO MAGIC FM[/COLOR]
+http://80.86.106.143:9128/magicfm.aacp
+#EXTINF:-1,[COLOR red]RADIO HIT FM ZARAGOZA[/COLOR]
+http://5.196.244.141:2000/
+#EXTINF:-1,[COLOR red]RADIO ROMANUL MADRID[/COLOR]
+http://www.radioromanul.es:55556/radioromanul?1479527320033
+#EXTINF:-1,[COLOR red]RADIO TRANSILVANIA-BN[/COLOR]
+http://transilvaniahits.ddns.net:8008/;&type=mp3
+#EXTINF:-1,[COLOR red]RADIO ACORD ROMANIA (POPULARA)[/COLOR]
+http://37.59.224.233:8089/;s.mp3
+#EXTINF:-1,[COLOR red]RADIO BIG LOVE DIASPORA[/COLOR]
+http://167.114.207.224:3000/;
+#EXTINF:-1,[COLOR red]RADIO VACANTA HITS[/COLOR]
+http://89.238.227.6:8338/;stream/1
+#EXTINF:-1,[COLOR red]RADIO 247FM CHRISTMAS[/COLOR]
+http://special.radio247fm.net:9306/;stream/1
 
 
  
