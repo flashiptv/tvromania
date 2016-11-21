@@ -13,6 +13,8 @@ http://rtv.smcmobile.ro:8080/RTV.m3u8
 http://89.43.138.29/live/playlist13.m3u8
 #EXTINF:-1,[COLOR blue](RO)ANTENA 3[/COLOR]
 http://live3vox.aplay.ro/antena3_FiXpX/350.m3u8?starttime=1478990017&endtime=1478997247&source=web&token=PtMfg_eK4VlNE5c6k3o-FxhsmOQ=
+#EXTINF:-1,[COLOR blue](RO) NASUL TV[/COLOR]
+http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/104.m3u8
 #EXTINF:-1,[COLOR blue](RO) PRO TV NEWS[/COLOR]
 http://185.133.64.237/news/stream:1.stream/chunklist_w498627641.m3u8
 #EXTINF:-1,[COLOR blue](RO) DOLCE SPORT 1[/COLOR]
