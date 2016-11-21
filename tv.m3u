@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-0,[COLOR green]=== 21 NOIEMBRIE 2016 ===[/COLOR]
+
 
 #EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",[COLOR blue]Capital TV (UK)[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
