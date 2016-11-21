@@ -11,9 +11,9 @@ http://realitatea.m247.ro/hls/live.m3u8
 #EXTINF:-1,[COLOR blue](RO) ROMANIA TV[/COLOR]
 http://rtv.smcmobile.ro:8080/RTV.m3u8
 
-#EXTINF:-1,[COLOR blue](RO)ANTENA 1 HD[/C
-OLOR]
+#EXTINF:-1,[COLOR blue](RO)ANTENA 1 HD[/COLOR]
 http://89.43.138.29/live/playlist13.m3u8
+
 #EXTINF:-1,[COLOR blue](RO)ANTENA 3[/COLOR]
 http://live3vox.aplay.ro/antena3_FiXpX/350.m3u8?starttime=1478990017&endtime=1478997247&source=web&token=PtMfg_eK4VlNE5c6k3o-FxhsmOQ=
 
@@ -152,6 +152,5 @@ http://special.radio247fm.net:9306/;stream/1
 http://5.135.16.243:9000
 
 #EXTINF:-1,[COLOR red]RADIO ZU[/COLOR]
-http://live.romanticfm.ro:8024/;stream/1
 
  
