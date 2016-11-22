@@ -50,13 +50,13 @@ http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
 
 #EXTINF:-1,[COLOR blue](RO) HBO[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=1a4541c382617fa00392f7e4448532d4&time=1479760611&pid=2930&external_device=&on_demand=0&isp=&bitrate=1688
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=a66a2978b13ef37d500a7136340ab91f&time=1479848204&pid=8039&external_device=&on_demand=0&isp=&bitrate=1619
 
 #EXTINF:-1,[COLOR blue](RO) HBO 2[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=d24f424b04a92895337667825fcac0fe&time=1479760656&pid=2943&external_device=&on_demand=0&isp=&bitrate=1789
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=d27cab9c6f7bb990004180d80df16242&time=1479848267&pid=8068&external_device=&on_demand=0&isp=&bitrate=1751
 
 #EXTINF:-1,[COLOR blue](RO) TNT[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=fc2be85968c8831bc62f8acc1e62be87&time=1479816701&pid=17530&external_device=&on_demand=0&isp=&bitrate=1582
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=c0f3cfee90f74e95e9d9c232a62d3477&time=1479848311&pid=17530&external_device=&on_demand=0&isp=&bitrate=1393
 
 #EXTINF:-1,[COLOR blue](RO) SHOW TIME[/COLOR]
 http://mediafilmcenter.ro:1935/live/myStream/chunklist_w2029206657.m3u8
