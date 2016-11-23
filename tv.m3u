@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-0,[COLOR green]=== 22 NOIEMBRIE 2016 ===[/COLOR]
+#EXTINF:-0,[COLOR green]=== 24 NOIEMBRIE 2016 ===[/COLOR]
 
 
 #EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",[COLOR blue]Capital TV (UK)[/COLOR]
@@ -44,16 +44,16 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/48.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/3.m3u8
 
 #EXTINF:-1,[COLOR blue](RO) AXN[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=dbb08271a3c9daeb0e34630c522bc1bf&time=1479816630&pid=25269&external_device=&on_demand=0&isp=&bitrate=2201
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=1213350fc07d380950b9c3a491c4292f&time=1479941888&pid=5913&external_device=&on_demand=0&isp=&bitrate=1611
 
 #EXTINF:-1,[COLOR blue](RO) BOLLIWOOD TV[/COLOR]
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
 
 #EXTINF:-1,[COLOR blue](RO) HBO[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=a66a2978b13ef37d500a7136340ab91f&time=1479848204&pid=8039&external_device=&on_demand=0&isp=&bitrate=1619
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=0cf771b8a8a812ae73ad176a41c62b60&time=1479940859&pid=9141&external_device=&on_demand=0&isp=&bitrate=2403
 
 #EXTINF:-1,[COLOR blue](RO) HBO 2[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=d27cab9c6f7bb990004180d80df16242&time=1479848267&pid=8068&external_device=&on_demand=0&isp=&bitrate=1751
+http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=4425ed006741b00b0019df6315fa6ea9&time=1479941577&pid=12509&external_device=&on_demand=0&isp=&bitrate=1619
 
 #EXTINF:-1,[COLOR blue](RO) TNT[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=c0f3cfee90f74e95e9d9c232a62d3477&time=1479848311&pid=17530&external_device=&on_demand=0&isp=&bitrate=1393
