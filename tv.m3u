@@ -23,7 +23,7 @@ http://live3vox.aplay.ro/antena3_FiXpX/350.m3u8?starttime=1478990017&endtime=147
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/104.m3u8
 
 #EXTINF:-1,[COLOR blue](RO)B1 TV[/COLOR]
-http://fms75.mediadirect.ro:1937/live3/_definst_/b1_low/chunklist_w1245589539.m3u8?token=2146907b3d814c60bac16c82883a0ad6a4392c6a779824d0&publisher=6
+http://fms75.mediadirect.ro:1937/live3/_definst_/b1_low/chunklist_w1618331183.m3u8?token=260bf374c425e22fc46163d4b0cde441e2e207aed38f5052&publisher=6
 
 #EXTINF:-1,[COLOR blue](RO) PRO TV NEWS[/COLOR]
 http://185.133.64.237/news/stream:1.stream/chunklist_w498627641.m3u8
@@ -66,14 +66,15 @@ http://mediafilmcenter.ro:1935/live/myStream/chunklist_w1255078420.m3u8
 
 #EXTINF:-1,[COLOR blue](RO) EUROSPORT 1[/COLOR]
 http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=60&extension=ts&hash=68cd6944931f8c4732b29d7956f6be9d&time=1480160576&pid=12347&external_device=&on_demand=0&isp=&bitrate=1637
+
 #EXTINF:-1,[COLOR blue](RO) EUROSPORT 2[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=61&extension=ts&hash=2412f008574f64c1c9fc494c0a7896a1&time=1479816846&pid=32723&external_device=&on_demand=0&isp=&bitrate=1311
+http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=61&extension=ts&hash=b071131e84e856830831338374b5f7b9&time=1480160630&pid=5094&external_device=&on_demand=0&isp=&bitrate=1587
 
 #EXTINF:-1,[COLOR blue]SKY SPORTS UK[/COLOR]
-http://89.207.131.170:8081/live/239634.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAxNiAxMjoxNDozNSBQTSZoYXNoX3ZhbHVlPXdvSVlqMndjRXBEdHAvR3NVU1VwdEE9PSZ2YWxpZG1pbnV0ZXM9Mg==&wmsAuthSign2=NTdlY2NkMTU4ZmY5Zg==
+http://163.172.87.168:8081/live/239634.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAxNiAxMTo0NDozNSBBTSZoYXNoX3ZhbHVlPTFTOHpGVE41VzY5M29yNVBIZjdWV3c9PSZ2YWxpZG1pbnV0ZXM9Mg==&wmsAuthSign2=NTdlY2NkMTU4ZmY5Zg==
 
 #EXTINF:-1,[COLOR blue]BT SPORT[/COLOR]
-http://163.172.87.170:8081/live/239629.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAxNiAxMjoxNjoxNCBQTSZoYXNoX3ZhbHVlPVpDc0p4Vi9XNGRPaHhWdVB1QlhYUEE9PSZ2YWxpZG1pbnV0ZXM9Mg==&wmsAuthSign2=NTgyOGMxYTZmMWQ2Yw==
+http://163.172.87.240:8081/live/239648.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAxNiAxMTo0NToyNSBBTSZoYXNoX3ZhbHVlPWwvVm9nSVFkak9DbXY3a0RZSkx6U0E9PSZ2YWxpZG1pbnV0ZXM9Mg==&wmsAuthSign2=NTgyOGMxYTZmMWQ2Yw==
 
 #EXTINF:-1,[COLOR blue](RO) U TV[/COLOR]
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w552012056.m3u8
@@ -82,16 +83,16 @@ http://81.196.0.126/utvedge/utvlivehls/chunklist_w552012056.m3u8
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png",[COLOR blue](RO) NAT GEO[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=72&extension=ts&hash=cd07bcb0940629a2b0192eeb4bef72ce&time=1479817058&pid=31208&external_device=&on_demand=0&isp=&bitrate=2498
+http://play.core2.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=72&extension=ts&hash=d4a8cd0f58c2f80fda415512fa4b9db8&time=1480160807&pid=2030&external_device=&on_demand=0&isp=&bitrate=1527
 
 #EXTINF:-1,[COLOR blue](RO) NAT GEO WILD[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=73&extension=ts&hash=c9ca35103047fa1fe02da08e75842b8c&time=1479817104&pid=23121&external_device=&on_demand=0&isp=&bitrate=1799
+http://play.core2.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=73&extension=ts&hash=4fca63a196bff7fe08252213aa9fdc47&time=1480160853&pid=16875&external_device=&on_demand=0&isp=&bitrate=1206
 
 #EXTINF:-1,[COLOR blue](RO) ANIMAL PLANET[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=200&extension=ts&hash=1c21b6b37cbc1e78bddb9f247037eb36&time=1479817152&pid=12625&external_device=&on_demand=0&isp=&bitrate=2960
+http://play.core2.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=200&extension=ts&hash=6bce253004a995ede9cf18f5b096005b&time=1480160902&pid=30080&external_device=&on_demand=0&isp=&bitrate=3378
 
 #EXTINF:-1,[COLOR blue](RO) BBC EART[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=186&extension=ts&hash=aba1d774825c88cb2db68e5bd40e9326&time=1479817195&pid=24316&external_device=&on_demand=0&isp=&bitrate=516
+http://play.core2.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=186&extension=ts&hash=ca93906c75c1d7eac3af98f9394f4213&time=1480160954&pid=11895&external_device=&on_demand=0&isp=&bitrate=815
 
 #EXTINF:-1,[COLOR blue](RO) TRAVEL MIX[/COLOR]
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
