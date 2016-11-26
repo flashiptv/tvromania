@@ -47,26 +47,25 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/48.m3u8
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/3.m3u8
 
 #EXTINF:-1,[COLOR blue](RO) AXN[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=dbb08271a3c9daeb0e34630c522bc1bf&time=1479816630&pid=25269&external_device=&on_demand=0&isp=&bitrate=2201
+http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=17&extension=ts&hash=7979c7e738f97d9fdc7a68b816418699&time=1480160355&pid=31563&external_device=&on_demand=0&isp=&bitrate=2026
 
 #EXTINF:-1,[COLOR blue](RO) BOLLIWOOD TV[/COLOR]
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
 
 #EXTINF:-1,[COLOR blue](RO) HBO[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=a66a2978b13ef37d500a7136340ab91f&time=1479848204&pid=8039&external_device=&on_demand=0&isp=&bitrate=1619
+http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=13&extension=ts&hash=658099b29435aaee370e65491a6ee96a&time=1480160212&pid=2500&external_device=&on_demand=0&isp=&bitrate=1743
 
 #EXTINF:-1,[COLOR blue](RO) HBO 2[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=d27cab9c6f7bb990004180d80df16242&time=1479848267&pid=8068&external_device=&on_demand=0&isp=&bitrate=1751
+http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=14&extension=ts&hash=541f41c7877ed347da87c171bc1bbfd4&time=1480160425&pid=6816&external_device=&on_demand=0&isp=&bitrate=1195
 
 #EXTINF:-1,[COLOR blue](RO) TNT[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=c0f3cfee90f74e95e9d9c232a62d3477&time=1479848311&pid=17530&external_device=&on_demand=0&isp=&bitrate=1393
+http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=fe1058709206711a42173078046272d2&time=1480160481&pid=2527&external_device=&on_demand=0&isp=&bitrate=1271
 
 #EXTINF:-1,[COLOR blue](RO) SHOW TIME[/COLOR]
-http://mediafilmcenter.ro:1935/live/myStream/chunklist_w2029206657.m3u8
+http://mediafilmcenter.ro:1935/live/myStream/chunklist_w1255078420.m3u8
 
 #EXTINF:-1,[COLOR blue](RO) EUROSPORT 1[/COLOR]
-http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=60&extension=ts&hash=af5ab05950d7d8c0c6d8e7c363567c20&time=1479816804&pid=29547&external_device=&on_demand=0&isp=&bitrate=1309
-
+http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=60&extension=ts&hash=68cd6944931f8c4732b29d7956f6be9d&time=1480160576&pid=12347&external_device=&on_demand=0&isp=&bitrate=1637
 #EXTINF:-1,[COLOR blue](RO) EUROSPORT 2[/COLOR]
 http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=61&extension=ts&hash=2412f008574f64c1c9fc494c0a7896a1&time=1479816846&pid=32723&external_device=&on_demand=0&isp=&bitrate=1311
 
