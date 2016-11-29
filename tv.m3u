@@ -11,7 +11,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://realitatea.m247.ro/hls/live.m3u8
 
 #EXTINF:-1,[COLOR blue](RO) ROMANIA TV[/COLOR]
-http://rtv.smcmobile.ro:8080/RTV.m3u8
+http://rtv.smcmobile.ro:8020/rtv.flv?file=rtv.flv&start=0
 
 #EXTINF:-1,[COLOR blue](RO)ANTENA 1 HD[/COLOR]
 http://89.43.138.29/live/playlist13.m3u8
