@@ -13,6 +13,9 @@ http://realitatea.m247.ro/hls/live.m3u8
 #EXTINF:-1,[COLOR blue](RO) ROMANIA TV[/COLOR]
 http://rtv.smcmobile.ro:8020/rtv.flv?file=rtv.flv&start=0
 
+#EXTINF:-1,[COLOR blue](RO)DIGI 24 HD[/COLOR]
+http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w40957690_b1888595_sleng.m3u8
+
 #EXTINF:-1,[COLOR blue](RO)ANTENA 1 HD[/COLOR]
 http://89.43.138.29/live/playlist13.m3u8
 
