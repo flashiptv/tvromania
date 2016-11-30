@@ -65,7 +65,7 @@ http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS1
 http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=32&extension=ts&hash=fe1058709206711a42173078046272d2&time=1480160481&pid=2527&external_device=&on_demand=0&isp=&bitrate=1271
 
 #EXTINF:-1,[COLOR blue](RO) SHOW TIME[/COLOR]
-http://mediafilmcenter.ro:1935/live/myStream/chunklist_w1255078420.m3u8
+http://mediafilmcenter.ro:1935/live/myStream/chunklist_w575678671.m3u8
 
 #EXTINF:-1,[COLOR blue](RO) EUROSPORT 1[/COLOR]
 http://r1.e.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=60&extension=ts&hash=68cd6944931f8c4732b29d7956f6be9d&time=1480160576&pid=12347&external_device=&on_demand=0&isp=&bitrate=1637
