@@ -104,7 +104,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start
 http://80.86.107.169/iphone/live.m3u8
 
 #EXTINF:0,[COLOR blue](RO) ETNO TV HD[/COLOR]
-http://213.142.149.136:8000/play/a00a
+http://80.86.107.224:49999/udp/224.5.0.26:1234 
 
 #EXTINF:0,[COLOR blue](RO) TARAF TV HD[/COLOR]
 http://213.142.149.136:8000/play/a00b
