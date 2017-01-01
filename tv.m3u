@@ -1,7 +1,7 @@
 #EXTM3U $ ExtFilter = "TV"
 
 
-#EXTINF:-0,[COLOR green]=== 26 DE DICIEMBRE 2016 ===[/COLOR]
+#EXTINF:-0,[COLOR green]=== 01 DE ENERO 2017 ===[/COLOR]
 
 
 #EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",[COLOR blue]Capital TV (UK)[/COLOR]
@@ -112,8 +112,8 @@ http://213.142.149.136:8000/play/a00b
 #EXTINF:-1,[COLOR blue](ES) BEIN SPORTS[/COLOR]
 http://stream.latino-webtv.com:8880/beinhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51re5fEYLOL._SX200_QL80_.jpg",[COLOR orange]Kingsman: Servicio secreto 2015[/COLOR]
-https://1fhjluv.oloadcdn.net/dl/l/KukWFAllB9YYnmbq/0rhPNwmNm4U/Kingsman.+Servicio+Secreto+HDrip.avi.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51re5fEYLOL._SX200_QL80_.jpg",[COLOR orange]Keeping Up with the Joneses – Spionii din vecini (2016)[/COLOR]
+https://1fiafzs.oloadcdn.net/dl/l/cpf_KgWJtIDOaSCu/JIjcXjb3-s4/spionii+din+vecini.mp4
 
 
 
