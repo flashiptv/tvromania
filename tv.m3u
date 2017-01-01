@@ -112,11 +112,8 @@ http://213.142.149.136:8000/play/a00b
 #EXTINF:-1,[COLOR blue](ES) BEIN SPORTS[/COLOR]
 http://stream.latino-webtv.com:8880/beinhd/playlist.m3u8
 
-#EXTINF:-1,[COLOR orange]El soldado de Dios (2011)[/COLOR]
-http://190.211.254.15/oxyisskar4mxxkpdr43vvxehhktk6usfzmkehabjzdmp6wp2ousrpsmgwgva/v.mp4
-
-#EXTINF:-1,[COLOR orange]Eroi in largul marii (2016)[/COLOR]
-https://c2qy75.playercdn.net/85/1/2LF5Mu0MA_FozGoRBkq8gw/1482790959/161222/079GzcWudvY6giX.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51re5fEYLOL._SX200_QL80_.jpg",[COLOR orange]Kingsman: Servicio secreto 2015[/COLOR]
+https://1fhjluv.oloadcdn.net/dl/l/KukWFAllB9YYnmbq/0rhPNwmNm4U/Kingsman.+Servicio+Secreto+HDrip.avi.mp4
 
 
 
