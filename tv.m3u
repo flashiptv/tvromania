@@ -112,8 +112,11 @@ http://213.142.149.136:8000/play/a00b
 #EXTINF:-1,[COLOR blue](ES) BEIN SPORTS[/COLOR]
 http://stream.latino-webtv.com:8880/beinhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51re5fEYLOL._SX200_QL80_.jpg",[COLOR orange]Keeping Up with the Joneses – Spionii din vecini (2016)[/COLOR]
-https://1fiagfa.oloadcdn.net/dl/l/q9tDMxDDqLGBHJcw/JIjcXjb3-s4/spionii+din+vecini.mp4
+#EXTINF:-1 tvg-logo="http://www.thesamecinemaeverynight.net/wp-content/uploads/2016/05/darkweb_dvd.jpg",[COLOR orange]Darkweb (2016)[/COLOR]
+http://streamcloud.eu/xar0nz0spp4m/Darkweb__2016__.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hqUP7_qkzkE/WCQBa7gb4TI/AAAAAAABRzE/Nzafr15pWks-SWgyGYDylevq1JAwt1GXgCLcB/s320/poster-el-contador.jpg",[COLOR orange]Darkweb (2016)[/COLOR]
+http://streamcloud.eu/kmodzhh6jdrd/The_Accountant_-_Cifre_periculoase__2016__.mp4
 
 
 
