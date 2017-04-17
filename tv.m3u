@@ -28,8 +28,8 @@ http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/104.m3u8
 #EXTINF:-1,[COLOR blue](RO)B1 TV[/COLOR]
 http://fms85.mediadirect.ro:1937/live3/_definst_/b1_low/chunklist_w1182155379.m3u8?token=6dc05d3f8af306733ac2010460b234a26ceb8ba3c155c7c7&publisher=6
 
-#EXTINF:-1,[COLOR blue](RO) PRO TV NEWS[/COLOR]
-https://s3-eu-west-1.amazonaws.com/conewland/msg_es.mp3
+#EXTINF:-1,[COLOR blue](RO) PRO TV INTERNATIONAL[/COLOR]
+http://hls.protv.md/hls/protv.m3u8
 
 #EXTINF:-1,[COLOR blue](RO) DOLCE SPORT 1[/COLOR]
 http://91.212.150.108/cavscampeon/240144.m3u8?wmsAuthSign2=NTg1MTg3ZjA0ZjRiYg==&token=c2VydmVyX3RpbWU9MTQ5MjI5NTkyMSZoYXNoX3ZhbHVlPUgzU2NGYWlobFczc2pxN2c4TmVlNFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
