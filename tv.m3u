@@ -1,7 +1,7 @@
 #EXTM3U $ ExtFilter = "TV"
 
 
-#EXTINF:-0,[COLOR green]=== 11 DE JUlIO DE 2017.. ===[/COLOR]
+#EXTINF:-0,[COLOR green]=== 15 DE JUlIO DE 2017.. ===[/COLOR]
 
 
 #EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",[COLOR blue]Capital TV (UK)[/COLOR]
@@ -20,7 +20,7 @@ http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w40957690_b1888595_slen
 http://89.43.138.29/live/playlist13.m3u8
 
 #EXTINF:-1,[COLOR blue](RO)ANTENA 3 HD[/COLOR]
-https://live3vox.antenaplay.ro/a3free/250.m3u8?starttime=1499796187&endtime=1499803417&source=web&token=pbbf-VCC77pSxDuQ41btjRCs_rI=
+https://live3vox.antenaplay.ro/a3free/250.m3u8?starttime=1500140806&endtime=1500148036&source=web&token=ZkhP4YUQz5UKBkqQogER6qKv7tc=
 
 #EXTINF:-1,[COLOR blue](RO) NASUL TV[/COLOR]
 http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/104.m3u8
