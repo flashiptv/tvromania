@@ -8,7 +8,7 @@
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,[COLOR lime]•[/COLOR][COLOR deepskyblue]REALITATEA TV[/COLOR]
-https://livestream.realitatea.net/livestream/smil:liverealitatea.stream.smil/chunklist_b1628000_sleng.m3u8?md5=J5ZggX1CgUuMA7ntLumSuA&expires=1519209579
+http://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
 
 #EXTINF:-1,[COLOR blue](RO) ROMANIA TV[/COLOR]
 https://ppext.arktv.ro/hls/channel6/bitrate4.m3u8
@@ -17,13 +17,13 @@ https://ppext.arktv.ro/hls/channel6/bitrate4.m3u8
 http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w40957690_b1888595_sleng.m3u8
 
 #EXTINF:-1,[COLOR blue](RO)ANTENA 1 HD[/COLOR]
-http://89.43.138.29/live/playlist13.m3u8
+http://d2.olcdn.net/images_web/fc67ae005f42cf40bdbb94b46759de4e/5014e0eba9c9ca0b76f5128200ff4e68/images_106231.png
 
 #EXTINF:-1,[COLOR blue](RO)ANTENA 3 HD[/COLOR]
-https://live3vox.antenaplay.ro/a3free/250.m3u8?starttime=1516733142&endtime=1516740372&source=web&token=W4M6mB6WTKutUXOXYVC3ofGaTS4=
+https://live3vox.antenaplay.ro/a3free/250.m3u8?starttime=1524244109&endtime=1524251339&source=web&token=o0vcYGDuXBjgyRUH4ms4M4EtFG8=
 
 #EXTINF:-1,[COLOR blue](RO) NASUL TV[/COLOR]
-http://play.hgfdsaytrewq.xyz:25461/live/I02CzDS14C/EHdAiyOOS0/104.m3u8
+https://5ab29cc78f681.streamlock.net/NasulTVlive/NasulTVlive/chunklist_w576132091.m3u8
 
 #EXTINF:-1,[COLOR blue](RO)B1 TV[/COLOR]
 https://cdn-cosmopolis-da.nxtservers.com/video2.mp4
